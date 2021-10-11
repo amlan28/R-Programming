@@ -1,4 +1,3 @@
-
 {nterms = as.integer(readline(prompt="How many terms? "))
 # first two terms
 n1 = 0
