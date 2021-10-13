@@ -1,2 +1,0 @@
-Some experiments done in R console.
-Open the experiment pdf and you can go through some topics related to applied statistics using R console.
